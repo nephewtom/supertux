@@ -1,0 +1,1 @@
+[has moved to GitHub](SuperTux.md)(https://github.com/SuperTuxTeam/)
